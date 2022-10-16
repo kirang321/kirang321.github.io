@@ -320,6 +320,7 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 
 .about__img img {
   width: 300px;
+  margin: auto;
   border-radius: .5rem;
 }
 /* education section start css */
